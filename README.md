@@ -16,15 +16,12 @@ Here are some ideas to get you started:
 -->
 
 Avionics Engineer at the Student Satellite Program<br>
-Student Intern at Agro-Informatics Lab, CSRE
+Student Intern at Agro-Informatics Lab, CSRE<br>
+Convener at the Maths and Physics Club<br>
+Grade 8 Pianist<br>
+Recreational Triathlete<br>
+IIT Bombay '23
 
-Convener at the Maths and Physics Club
-
-Grade 8 Pianist
-
-Recreational Triathlete
-
-IIT Bombay '23 
 <br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aravindbharathi&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
