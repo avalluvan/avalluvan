@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Avionics Engineer at the Student Satellite Program
+Avionics Engineer at the Student Satellite Program<br>
 Student Intern at Agro-Informatics Lab, CSRE
 
 Convener at the Maths and Physics Club
