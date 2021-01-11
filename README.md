@@ -22,7 +22,6 @@ Grade 8 Pianist<br>
 Recreational Triathlete<br>
 IIT Bombay '23
 
-<br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aravindbharathi&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
