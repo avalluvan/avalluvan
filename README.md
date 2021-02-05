@@ -24,6 +24,8 @@ IIT Bombay '23
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aravindbharathi&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravindbharathi)](https://github.com/anuraghazra/github-readme-stats)
+
 Check out my Website [here](https://www.linkedin.com/in/aravind-bharathi/)<br>
 [Aravind Bharathi](https://www.linkedin.com/in/aravind-bharathi/)
 <!--
