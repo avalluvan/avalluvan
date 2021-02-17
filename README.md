@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 Avionics Engineer at the Student Satellite Program<br>
-Student Intern at Agro-Informatics Lab, CSRE<br>
+Student Intern at the Agro-Informatics Lab, CSRE<br>
 Convener at the Maths and Physics Club<br>
 Grade 8 Pianist<br>
+Adventure Cyclist<br>
 Recreational Triathlete<br>
 IIT Bombay '23
 
