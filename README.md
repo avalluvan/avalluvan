@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Avionics Engineer at the [Student Satellite Program](https://www.aero.iitb.ac.in/satlab/index.php)<br>
 Astrophysics Division Lead at [Team ANYmation](https://www.insti.app/org/krittika)<br>
 Student Intern at the [Agro-Informatics Lab, CSRE](http://www.csre.iitb.ac.in/adi/agrolab.htm)<br>
-Ex-Convener at the [Maths and Physics Club](http://mnp-club.github.io/)<br>
+Former Convener at the [Maths and Physics Club](http://mnp-club.github.io/)<br>
 Grade 8 Pianist<br>
 Adventure Cyclist<br>
 Recreational Triathlete<br>
