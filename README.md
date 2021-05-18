@@ -28,6 +28,8 @@ IIT Bombay '23
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravindbharathi&hide=scss&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://komarev.com/ghpvc/?username=devansh-dvj" alt=profile_views/>
+
 Check out my [Website](https://aravindbharathi.github.io/)<br>
 <!--And add me on [Linkedin](https://www.linkedin.com/in/aravind-bharathi/)-->
 <!--
