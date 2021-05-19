@@ -19,7 +19,7 @@ Avionics Engineer at the [Student Satellite Program](https://www.aero.iitb.ac.in
 Astrophysics Division Lead at [Team ANYmation](https://www.insti.app/org/krittika)<br>
 Former Student Intern at the [Agro-Informatics Lab, CSRE](http://www.csre.iitb.ac.in/adi/agrolab.htm)<br>
 Former Convener at the [Maths and Physics Club](http://mnp-club.github.io/)<br>
-B.Tech. (Hons) Engineering Physics<br>
+B.Tech. (Hons.) Engineering Physics<br>
 IIT Bombay '23
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aravindbharathi&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
