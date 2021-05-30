@@ -23,11 +23,11 @@ Former Convener at the [Maths and Physics Club](http://mnp-club.github.io/)<br>
 B.Tech. (Hons.) Engineering Physics<br>
 IIT Bombay '23
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aravindbharathi&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aravindbharathi&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravindbharathi&hide=scss&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-Check out my [Website](https://aravindbharathi.github.io/)<br> <img src="https://komarev.com/ghpvc/?username=aravindbharathi&color=blueviolet&style=flat" alt=profile_views/>
+Check out my [Website](https://aravindbharathi.github.io/)<br> <img src="https://komarev.com/ghpvc/?username=aravindbharathi&color=blue&style=flat" alt=profile_views/>
 <!--And add me on [Linkedin](https://www.linkedin.com/in/aravind-bharathi/)-->
 <!--
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
