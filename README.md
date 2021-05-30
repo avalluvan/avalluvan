@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Avionics Engineer at the [Student Satellite Program](https://www.aero.iitb.ac.in/satlab/index.php)<br>
 Astrophysics Division Lead at [Team ANYmation](https://www.insti.app/org/krittika)<br>
-Academic Mentor at the [Department of Physics-AMP](https://github.com/epdampiitb)<br>
+Academic Mentor at the [D-AMP, Physics](https://github.com/epdampiitb)<br>
 Former Student Intern at the [Agro-Informatics Lab, CSRE](http://www.csre.iitb.ac.in/adi/agrolab.htm)<br>
 Former Convener at the [Maths and Physics Club](http://mnp-club.github.io/)<br>
 B.Tech. (Hons.) Engineering Physics<br>
