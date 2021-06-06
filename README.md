@@ -22,7 +22,7 @@ Department Academic Mentor at [D-AMP, Physics](https://epdampiitb.github.io/)<br
 Former Student Intern at the [Agro-Informatics Lab, CSRE](http://www.csre.iitb.ac.in/adi/agrolab.htm)<br>
 Former Convener of the [Maths and Physics Club](http://mnp-club.github.io/)<br>
 B.Tech. (Hons.) Engineering Physics<br>
-IIT Bombay Class of '23
+IIT Bombay, Class of '23
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aravindbharathi&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
