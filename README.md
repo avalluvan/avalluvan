@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Undergraduate Student Researcher in the ACG Group, [Department of Physics](https://www.phy.iitb.ac.in/)<br>
+Undergraduate Student Researcher in the Astrophysics, Cosmology and Gravitation Group, [Department of Physics](https://www.phy.iitb.ac.in/)<br>
 Avionics Engineer at the [Student Satellite Program](https://www.aero.iitb.ac.in/satlab/index.php)<br>
 Astrophysics Division Lead at [Team ANYmation](https://team-anymation.github.io/)<br>
 Department Academic Mentor at [D-AMP, Physics](https://epdampiitb.github.io/)<br>
