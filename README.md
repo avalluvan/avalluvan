@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Undergraduate Student Researcher in the Astrophysics, Cosmology and Gravitation Group, [Department of Physics](https://www.phy.iitb.ac.in/)<br>
+Undergraduate Student Researcher in the [Department of Physics](https://www.phy.iitb.ac.in/)<br>
 Avionics Engineer at the [Student Satellite Program](https://www.aero.iitb.ac.in/satlab/index.php)<br>
 Astrophysics Division Lead at [Team ANYmation](https://team-anymation.github.io/)<br>
 Department Academic Mentor at [D-AMP, Physics](https://epdampiitb.github.io/)<br>
-Former Summer Intern in the Theory Group, [Department of CSE, IIT Madras](http://theory.cse.iitm.ac.in/)<br>
+Former Summer Intern in the [Department of CSE, IIT Madras](http://theory.cse.iitm.ac.in/)<br>
 Former Research Intern at the [Agro-Informatics Lab, CSRE](http://www.csre.iitb.ac.in/adi/agrolab.htm)<br>
 Former Convener of the [Maths and Physics Club](http://mnp-club.github.io/)<br>
 B.Tech. (Hons.) Engineering Physics<br>
