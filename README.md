@@ -37,6 +37,8 @@ IIT Bombay, Class of '23
 <!--/p-->
 
 Check out my [Website](https://aravindbharathi.github.io/)<br> <img src="https://komarev.com/ghpvc/?username=aravindbharathi&color=0818A8&style=flat&label=Profile+Views" alt=profile_views/>
+[<img align="left" alt="liza23 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="liza23 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [instagram]: https://www.instagram.com/aburstofradium/
 [linkedin]: https://www.linkedin.com/in/aravind-bharathi/
 <!--And add me on [Linkedin](https://www.linkedin.com/in/aravind-bharathi/)-->
