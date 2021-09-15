@@ -37,10 +37,8 @@ IIT Bombay, Class of '23
 <!--/p-->
 
 Check out my [Website](https://aravindbharathi.github.io/)<br> <img src="https://komarev.com/ghpvc/?username=aravindbharathi&color=0818A8&style=flat&label=Profile+Views" alt=profile_views/>
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[instagram]: https://www.instagram.com/aburstofradium/
-[linkedin]: https://www.linkedin.com/in/aravind-bharathi/
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/aburstofradium/)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aravind-bharathi/) 
 <!--And add me on [Linkedin](https://www.linkedin.com/in/aravind-bharathi/)-->
 <!--
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
