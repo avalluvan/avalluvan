@@ -37,8 +37,8 @@ IIT Bombay, Class of '23
 <!--/p-->
 
 
-[<img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aravind-bharathi/) 
-[<img alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/statuspage.svg" />](https://aravindbharathi.github.io/)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aravind-bharathi/)
+[<img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/statuspage.svg" />](https://aravindbharathi.github.io/)
 <br>
 <!--
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
