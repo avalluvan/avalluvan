@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Undergraduate Student Researcher in the [Department of Physics](https://www.phy.iitb.ac.in/)<br>
+Undergraduate Research Assistant in the [Department of Electrical Engineering](https://cnqt-group.org/)<br>
 Avionics Engineer at the [Student Satellite Program](https://www.aero.iitb.ac.in/satlab/index.php)<br>
 Co-Founder of [Team ANYmation](https://team-anymation.github.io/)<br>
 Department Academic Mentor at [D-AMP, Physics](https://epdampiitb.github.io/)<br>
