@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Undergraduate Student Researcher in the [Department of Physics](https://www.phy.iitb.ac.in/)<br>
+Undergraduate Student Researcher in the [Astrophysics, Cosmology and Gravitation group](https://www.phy.iitb.ac.in/)<br>
 Avionics Engineer at the [Student Satellite Program](https://www.aero.iitb.ac.in/satlab/index.php)<br>
 Co-Founder of [Team ANYmation](https://team-anymation.github.io/)<br>
 Former Convener of the [Maths and Physics Club](http://mnp-club.github.io/)<br>
