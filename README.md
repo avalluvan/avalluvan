@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 Undergraduate Student Researcher in the [Astrophysics, Cosmology and Gravitation Group](https://www.phy.iitb.ac.in/)<br>
 Avionics Engineer at the [Student Satellite Program](https://www.aero.iitb.ac.in/satlab/index.php)<br>
 Co-Founder of [Team ANYmation](https://team-anymation.github.io/)<br>
-Former Convener of the [Maths and Physics Club](http://mnp-club.github.io/)<br>
 B.Tech. (Hons.) Engineering Physics<br>
 IIT Bombay, Class of '23
 
