@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 Undergraduate Researcher in the [Astrophysics, Cosmology and Gravitation Group](https://www.phy.iitb.ac.in/)<br>
-Co-Founder of [Team ANYmation](https://team-anymation.github.io/)<br>
 B.Tech. (Hons.) Engineering Physics<br>
 IIT Bombay, Class of '23
 
