@@ -19,11 +19,11 @@ Undergraduate Researcher in the [Astrophysics, Cosmology and Gravitation Group](
 B.Tech. (Hons.) Engineering Physics<br>
 IIT Bombay, Class of '23
 
-<p align="center">
+<!--p align="center">
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aravindbharathi&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
+</p-->
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aravindbharathi&count_private=true&theme=tokyonight)](https://git.io/streak-stats)
   
