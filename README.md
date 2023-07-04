@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Undergraduate Researcher in the [Astrophysics, Cosmology and Gravitation Group](https://www.phy.iitb.ac.in/)<br>
+<!--Undergraduate Researcher in the [Astrophysics, Cosmology and Gravitation Group](https://www.phy.iitb.ac.in/)<br-->
 B.Tech. (Hons.) Engineering Physics<br>
 IIT Bombay, Class of '23
 
