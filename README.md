@@ -1,4 +1,4 @@
-### Wassup? 👋
+### Heyy There! 👋
 
 <!--
 **aravindbharathi/aravindbharathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
