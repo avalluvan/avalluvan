@@ -20,7 +20,7 @@ Graduate Student Researcher,<br>
 Department of Astronomy and Astrophysics,<br>
 UC San Diego<br><br>
 B.Tech. (Hons.) Engineering Physics,<br>
-IIT Bombay, Class of '23
+IIT Bombay, 2019-2023
 
 
 <!--p align="center">
