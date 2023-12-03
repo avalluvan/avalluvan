@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--Undergraduate Researcher in the [Astrophysics, Cosmology and Gravitation Group](https://www.phy.iitb.ac.in/)<br-->
 Graduate Student Researcher,<br>
 Department of Astronomy and Astrophysics,<br>
-UC San Diego<br><br>
+UC San Diego, 2023-Present<br><br>
 B.Tech. (Hons.) Engineering Physics,<br>
 IIT Bombay, 2019-2023
 
