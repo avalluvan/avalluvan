@@ -25,13 +25,13 @@ IIT Bombay, 2019-2023
 
 <!--p align="center">
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aravindbharathi&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=avalluvan&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </p-->
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aravindbharathi&count_private=true&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avalluvan&count_private=true&theme=tokyonight)](https://git.io/streak-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravindbharathi&hide=scss&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avalluvan&hide=scss&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 <!--/p-->
 
 
